@@ -17,7 +17,7 @@ class O1 {
         } else if (lønn < 1410750) {
             System.out.println("Du betaler 16,7% trinnskatt");
         } else  {
-            System.out.println("Du betaler 17,7% trinnskatt");
+            System.out.println("Du betaler 17,7% trinnskatt.");
         }
     }
 }
